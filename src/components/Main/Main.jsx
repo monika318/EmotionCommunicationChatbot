@@ -74,6 +74,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className='bottom-info'> Footer message </p>
+                changes
             </div>
 
         </div>
